@@ -8,7 +8,11 @@ liquidation using the websocket
 functions_fastapi.py ---- functions using fast api 
 
 local host url 
+
 http://127.0.0.1:8000/margin_ratio
+
 http://127.0.0.1:8000/position_risk?symbol=BTCUSDT 
+
 (as we only have balance in this symbol)
+
 http://127.0.0.1:8000/liquidation
